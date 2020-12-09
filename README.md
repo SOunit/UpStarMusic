@@ -1,9 +1,9 @@
 # how to start
-activate mongo db by command below
+activate mongo db
 ```
 docker-compose up
 ```
-run command below in terminal
+run command in terminal
 ```
 npm run start 
 ```
