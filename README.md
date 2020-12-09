@@ -1,3 +1,13 @@
+# how to start
+- activate mongo db by command below
+- docker-compose up
+- run command below in terminal
+- npm run start 
+
+
+### original message is below
+
+
 # UpStarMusic
 Starter Repo for a MongoDB course on Udemy
 
